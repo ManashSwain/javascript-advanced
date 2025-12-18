@@ -1,6 +1,7 @@
 var myname = "alice"
 let age = 21 
 const city = 'chennai'
+newcity = 'delhi'
 
 myname = "rohan"
 age = 56 
